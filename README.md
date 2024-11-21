@@ -14,9 +14,7 @@ O objetivo do Exploratorium é:
 
 O repositório está organizado da seguinte maneira:
 
-- **/research**: Resultados de pesquisas detalhadas.
-- **/case-studies**: Estudos de caso documentados.
-- **/spikes**: Relatórios de experimentos técnicos (spikes).
+- **/research**: Resultados de pesquisas, spikes, estudos de caso e etc.
 - **/articles**: Artigos relevantes para consulta.
 - **/resources**: Materiais de apoio, como links, ferramentas e templates.
 
