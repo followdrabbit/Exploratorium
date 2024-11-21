@@ -1,6 +1,16 @@
 
 # Viabilidade do Uso do AWS Threat Composer Integrado a Assistentes de Inteligência Artificial
 
+*"Threat modeling is a group activity requiring the knowledge and skills of a diverse team. The following perspectives should be covered by your team:  
+- The Business Persona  
+- The Developer Persona  
+- The Adversary Persona  
+- The Defender Persona  
+- The AppSec SME Persona"*  
+— *AWS Threat Modeling for Builders Workshop*
+
+---
+
 ## **Problema**
 
 A modelagem de ameaças deveria ser o alicerce para outros processos de segurança, pois ao definir controles, buscamos mitigar ameaças específicas associadas a riscos. No entanto, o processo é complexo, repetitivo e pouco interessante, mesmo para as equipes de segurança, dificultando sua adoção e execução eficiente.
@@ -303,10 +313,28 @@ Resultado:
 
 ![Diagrama Gerado](2024-threat-composer-003.png)
 
-
 ### **Conclusão**
 A integração do AWS Threat Composer com assistentes de IA demonstrou um potencial significativo para modernizar e agilizar a modelagem de ameaças. A automação facilita a identificação de ameaças e a criação de diagramas estruturados, aumentando a eficiência dos processos de segurança.
 
 No entanto, a aplicação prática desta solução reforça que o fator humano permanece essencial. Decisões críticas, como a escolha do framework de modelagem (STRIDE, LLM STRIDE, ATT&CK, entre outros) e a definição do momento certo para usá-los, ainda dependem da expertise de profissionais qualificados. Além disso, a interpretação dos dados gerados e a validação das informações coletadas exigem um olhar analítico e experiência em segurança da informação.
 
 Embora o assistente e o Threat Composer sejam ferramentas valiosas para reduzir a complexidade e o tempo investido, eles devem ser vistos como complementos ao trabalho humano, e não substitutos. Com ajustes contínuos, incluindo a automação gradual e um alinhamento claro entre frameworks e objetivos, essa integração pode se tornar um pilar importante na modernização dos processos de segurança.
+
+### Links do Threat Composer
+
+- **Apresentação**: [AWS Events - Threat Composer](https://www.youtube.com/watch?v=CaYCsmjuiHg&ab_channel=AWSEvents)  
+- **DEMO**: [AWS Threat Composer - Workspace Dashboard](https://awslabs.github.io/threat-composer/workspaces/GenAI%20Chatbot/dashboard)  
+- **GitHub**: [Threat Composer Repository](https://github.com/awslabs/threat-composer)  
+- **Treinamento (6 horas)**: [Threat Modeling the Right Way for Builders Workshop](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13274/threat-modeling-the-right-way-for-builders-workshop)  
+- **Recomendações sobre Threat Modeling**: [AWS Blog - How to Approach Threat Modeling](https://aws.amazon.com/blogs/security/how-to-approach-threat-modeling/)  
+
+## Links Úteis
+
+- **Threat Grammar**: [AWS Threat Modeling - Threat Grammar](https://catalog.workshops.aws/threatmodel/en-US/what-can-go-wrong/threat-grammar)  
+- **Shostack's 4 Question Frame for Threat Modeling**: [GitHub Repository - 4 Question Frame](https://github.com/adamshostack/4QuestionFrame)  
+
+## Ferramenta Baseada no Threat Composer
+
+- **Apresentação**: [Threat Modeling Tool SPA - YouTube](https://www.youtube.com/watch?v=YhZtjF4nlBA&ab_channel=IustinDumitru)  
+- **Threat Modeling Tool (SPA)**: [GitHub Repository - SPA Tool](https://github.com/cds-snc/threat-modeling-tool)  
+- **DEMO**: [Threat Modeling Tool - Demo Application](https://threat-modeling.cdssandbox.xyz/)  
