@@ -1,13 +1,16 @@
 
 # Viabilidade do Uso do AWS Threat Composer Integrado a Assistentes de Inteligência Artificial
 
-*"Threat modeling is a group activity requiring the knowledge and skills of a diverse team. The following perspectives should be covered by your team:  
-- The Business Persona  
-- The Developer Persona  
-- The Adversary Persona  
-- The Defender Persona  
-- The AppSec SME Persona"*  
-— *AWS Threat Modeling for Builders Workshop*
+---
+
+> Threat modeling is a group activity requiring the knowledge and skills of a diverse team. The following perspectives should be covered by your team:  
+> The Business Persona  
+> The Developer Persona  
+> The Adversary Persona  
+> The Defender Persona  
+> The AppSec SME Persona 
+>
+> AWS Threat Modeling for Builders Workshop
 
 ---
 
